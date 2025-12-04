@@ -50,29 +50,24 @@ building tools that help people learn, reflect, and imagine better futures.
 ## 🎨 Tech & Tools I Work With
 <p align="left">
   <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nest.js,nodejs,express,postgres,git,notion" />
-
-  <!-- Custom icons (ChatGPT + Windsurf) -->
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/Flat/robot_flat.png" width="48" alt="ChatGPT" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="48" alt="Windsurf" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,nodejs,express,postgres,git,notion" />
 </p>
 
+<p align="left">
+  <!-- ChatGPT badge -->
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <!-- Windsurf badge (uses VS Code logo as a stand-in) -->
+  <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Windsurf" />
+</p>
 
 ---
 
-## 📊 GitHub Stats (Tokyo Night — Fully Working)
+## 📊 GitHub Stats (Tokyo Night)
 
 <p align="center">
-
-<!-- USER STATS -->
-<img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SMcGregor199&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<!-- TOP LANGUAGES -->
-<img height="170em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=SMcGregor199&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- STREAK -->
-<img height="170em" src="https://streak-stats.demolab.com/?user=SMcGregor199&theme=tokyonight&hide_border=true" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SMcGregor199&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMcGregor199&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=SMcGregor199&theme=tokyonight&hide_border=true" />
 </p>
 
 

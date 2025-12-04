@@ -49,7 +49,7 @@ building tools that help people learn, reflect, and imagine better futures.
 
 ## 🎨 Tech & Tools I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,git,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,git,python,docker,chatgpt" />
 </p>
 
 

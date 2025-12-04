@@ -1,5 +1,5 @@
 <!-- ASCII SCENE AT THE VERY TOP -->
-<p align="center">
+<!-- <p align="center">
 <pre>
 
                           ______________________
@@ -25,7 +25,7 @@
                       ~ dream merging with work ~
 
 </pre>
-</p>
+</p> -->
 
 <!-- HEADER BANNER -->
 <p align="center">
@@ -38,7 +38,7 @@
 I took an unconventional path into tech: I earned a Ph.D. in African American Studies & English before teaching myself to code.  
 Even though my career shifted, the intellectual commitments remain — I still build with the same care, curiosity, and respect for complexity that guided my research in Black cultural history.
 
-I work in **JavaScript, TypeScript, React, Node.js, Express.js, and PHP**,  
+I work in **JavaScript, TypeScript, React, Node.js, Express.js, and SQL**,  
 with a deep focus on **accessibility, performance, and human-centered design**.
 
 Today, I’m creating at the intersection of **education, AI, and creative computation** —  
@@ -49,7 +49,7 @@ building tools that help people learn, reflect, and imagine better futures.
 
 ## 🎨 Tech & Tools I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,postgres,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,git,python" />
 </p>
 
 

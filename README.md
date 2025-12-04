@@ -62,12 +62,13 @@ building tools that help people learn, reflect, and imagine better futures.
 
 ---
 
-## 📊 GitHub Stats (Tokyo Night)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SMcGregor199&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMcGregor199&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=SMcGregor199&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/commit-activity/y/SMcGregor199?style=for-the-badge&label=Commits%20(last%2012%20months)&color=3a0ca3" alt="Commit activity" />
+  <img src="https://img.shields.io/github/followers/SMcGregor199?style=for-the-badge&label=Followers&color=0891b2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/SMcGregor199?style=for-the-badge&label=Repo%20stars&color=f97316&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/repos/SMcGregor199?style=for-the-badge&label=Public%20repos&color=22c55e" alt="Public repos" />
 </p>
 
 

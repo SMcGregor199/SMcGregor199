@@ -29,7 +29,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shibuya%20Punk%20x%20Tokyo%20Night&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=3a0ca3&fontColor=ffffff&text=Sleep,%20Code,%20Awake%20Again&fontSize=42&animation=fadeIn&fontAlignY=40" />
 </p>
 
 
@@ -49,13 +49,18 @@ building tools that help people learn, reflect, and imagine better futures.
 
 ## 🎨 Tech & Tools I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,git,python,docker,chatgpt" />
+  <!-- Skill icons -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nest.js,nodejs,express,postgres,git,notion" />
+
+  <!-- Custom icons (ChatGPT + Windsurf) -->
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/Flat/robot_flat.png" width="48" alt="ChatGPT" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="48" alt="Windsurf" />
 </p>
 
 
 ---
 
-## 📊 GitHub Stats (Tokyo Night — 100% WORKING)
+## 📊 GitHub Stats (Tokyo Night — Fully Working)
 
 <p align="center">
 
@@ -80,22 +85,19 @@ Most of my listening lives on YouTube, so here’s what’s been in rotation:
 - Samurai Champloo OST — *Nujabes × Fat Jon*  
 - J Dilla instrumentals  
 - Lofi anime beats (YouTube streams)  
-- Bonobo
-
+- Northern Lights *Bonobo*
 
 ---
 
 ## 📚 Currently Reading
-- **Malcolm X/ Alexy Haley — *The Autobiography of Malcolm X (As Told to Alex Haley)***  
-
-
+- **Ralph Ellison — *Shadow & Act***  
 
 ---
 
 ## 🚀 Featured Builds
 
 ### **Ralph Ellison GPT**  
-AI-powered research companion blending Black Studies.
+AI-powered research companion blending Black Studies, NLP, and vector search.
 
 ### **Malcolm X Ipsum**  
 A culturally grounded lorem ipsum generator with customizable modes.

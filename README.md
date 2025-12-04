@@ -22,7 +22,7 @@ building tools that help people learn, reflect, and imagine better futures.
 ## 🎨 Tech & Tools I Work With
 <p align="left">
   <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,nodejs,express,postgres,python,git,notion,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,nodejs,express,postgres,py,vite,github,notion,docker,emotion,codepen,css,html,netlify," />
 </p>
 
 <p align="left">

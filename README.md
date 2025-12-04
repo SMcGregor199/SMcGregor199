@@ -1,31 +1,3 @@
-<!-- ASCII SCENE AT THE VERY TOP -->
-<!-- <p align="center">
-<pre>
-
-                          ______________________
-                         |  01 1010 0101 1101  |
-                         |  10 0101 1010 0010  |
-                         |_____________________|
-                                   ||
-                ------------------------------------------------
-                |        k e y b o a r d        |   |   |   |  |
-                ------------------------------------------------
-                                   ||
-                                   ||
-                       .------------------------------.
-                      /      head-down   .-""""-.      \
-                     |      on desk    /        \       |
-                     |                 |   zzz   |       |
-                      \                 \        /       /
-                       '----------------'-.___.-'------'
-                                   //
-                                  //
-                    ~~~ falling_into_flow ~~~
-                     ~ code drifting downward ~
-                      ~ dream merging with work ~
-
-</pre>
-</p> -->
 
 <!-- HEADER BANNER -->
 <p align="center">
@@ -50,7 +22,7 @@ building tools that help people learn, reflect, and imagine better futures.
 ## 🎨 Tech & Tools I Work With
 <p align="left">
   <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,nodejs,express,postgres,git,notion" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,nodejs,express,postgres,git,notion,docker" />
 </p>
 
 <p align="left">
@@ -107,3 +79,34 @@ A concept-driven reimagining of the field’s core keywords.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Building%20Better%20Futures&fontSize=32&fontColor=ffffff" />
 </p>
+
+
+<p align="center">
+<pre>
+
+                          ______________________
+                         |  01 1010 0101 1101  |
+                         |  10 0101 1010 0010  |
+                         |_____________________|
+                                   ||
+                ------------------------------------------------
+                |        k e y b o a r d        |   |   |   |  |
+                ------------------------------------------------
+                                   ||
+                                   ||
+                       .------------------------------.
+                      /      head-down   .-""""-.      \
+                     |      on desk    /        \       |
+                     |                 |   zzz   |       |
+                      \                 \        /       /
+                       '----------------'-.___.-'------'
+                                   //
+                                  //
+                    ~~~ falling_into_flow ~~~
+                     ~ code drifting downward ~
+                      ~ dream merging with work ~
+
+</pre>
+</p> 
+
+

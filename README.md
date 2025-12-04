@@ -65,11 +65,10 @@ building tools that help people learn, reflect, and imagine better futures.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/SMcGregor199?style=for-the-badge&label=Commits%20(last%2012%20months)&color=3a0ca3" alt="Commit activity" />
   <img src="https://img.shields.io/github/followers/SMcGregor199?style=for-the-badge&label=Followers&color=0891b2" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SMcGregor199?style=for-the-badge&label=Repo%20stars&color=f97316&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/repos/SMcGregor199?style=for-the-badge&label=Public%20repos&color=22c55e" alt="Public repos" />
+  <img src="https://img.shields.io/github/stars/SMcGregor199?style=for-the-badge&label=Repo%20Stars&color=f97316&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" />
 </p>
+
 
 
 ---

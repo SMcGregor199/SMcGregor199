@@ -72,14 +72,15 @@ A culturally grounded lorem ipsum generator with customizable modes.
 ### **African American Studies API**  
 A concept-driven reimagining of the field’s core keywords.
 
-## I'm a big fan of coffee. Not sure when that happened, but if you'd like to support my work, you can do so using the link below
+## Ways to support
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/smcgregor199){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/smcgregor199)
+
 ---
 
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=purple&height=100&section=footer&text=Building%20Better%20Futures&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Building%20Better%20Futures&fontSize=32" />
 </p>
 
 

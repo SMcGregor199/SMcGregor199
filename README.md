@@ -1,115 +1,30 @@
+# Hi, I'm Shayne 👋🏽
 
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=3a0ca3&fontColor=ffffff&text=Sleep,%20Code,%20Awake%20Again&fontSize=42&animation=fadeIn&fontAlignY=40" />
-</p>
+I'm a **full-stack engineer** with a background in humanities research.
 
+Before moving into software development, I earned a Ph.D. in African American Studies & English. That experience still shapes the kinds of problems I'm drawn to: research, knowledge, education, accessibility, and the systems people use to make sense of complex information.
 
-## 👋🏽 Hi, I’m Shayne — a full-stack engineer shaped by scholarship, creativity, and code.
+I work primarily with **TypeScript, React, Node.js, SQL, and modern web infrastructure**, with an emphasis on accessible, maintainable, human-centered software.
 
-I took an unconventional path into tech: I earned a Ph.D. in African American Studies & English before teaching myself to code.  
-Even though my career shifted, the intellectual commitments remain — I still build with the same care, curiosity, and respect for complexity that guided my research in Black cultural history.
+## What I'm working on
 
-I work in **JavaScript, TypeScript, React, Node.js, Express.js, and SQL**,  
-with a deep focus on **accessibility, performance, and human-centered design**.
+### Discourse
+I'm exploring how software might better support the intellectual work that happens between **reading and writing**.
 
-Today, I’m creating at the intersection of **education, AI, and creative computation** —  
-building tools that help people learn, reflect, and imagine better futures.
+The project grew out of a question from my own experience in graduate school: how can researchers preserve not only the information they encounter, but the thinking, connections, and evolving interpretations that eventually become scholarship?
 
+[View the repository](https://github.com/SMcGregor199/discourse-center)
 
----
+### The Design of Research
+I'm writing a series of essays investigating the hidden work of research: how information becomes thought, thought becomes knowledge, and the tools and systems that shape what happens in between.
 
-## 🎨 Tech & Tools I Work With
-<p align="left">
-  <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,go,vite,github,notion,docker,emotion,codepen,css,html,netlify,azure" />
-</p>
+[Read the series](https://shaynemcgregor.dev)
 
-<p align="left">
-  <!-- ChatGPT badge -->
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <!-- Windsurf badge (uses VS Code logo as a stand-in) -->
-  <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Windsurf" />
-</p>
+## Tools I use
 
----
+`TypeScript` · `JavaScript` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Go` · `Vite` · `Netlify` · `GitHub`
 
-## 📊 GitHub Stats
+## Elsewhere
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SMcGregor199?style=for-the-badge&label=Followers&color=0891b2" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SMcGregor199?style=for-the-badge&label=Repo%20Stars&color=f97316&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" />
-</p>
-
-
-
----
-
-## 🎧 Currently Listening (YouTube Edition)
-Most of my listening lives on YouTube, so here’s what’s been in rotation:
-
-### **Coding / Deep Focus**
-- Samurai Champloo OST — *Nujabes × Fat Jon*  
-- J Dilla instrumentals  
-- Lofi anime beats (YouTube streams)  
-- Northern Lights *Bonobo*
-
----
-
-## 📚 Currently Reading
-- **Ralph Ellison — *Shadow & Act***  
-
----
-
-## 🚀 Featured Builds
-
-### **Ralph Ellison GPT**  
-AI-powered research companion blending Black Studies, NLP, and vector search.
-
-### **Malcolm X Ipsum**  
-A culturally grounded lorem ipsum generator with customizable modes.
-
-### **African American Studies API**  
-A concept-driven reimagining of the field’s core keywords.
-
-## Ways to support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/smcgregor199)
-
----
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Building%20Better%20Futures&fontSize=32" />
-</p>
-
-
-<p align="center">
-<pre>
-
-                          ______________________
-                         |  01 1010 0101 1101  |
-                         |  10 0101 1010 0010  |
-                         |_____________________|
-                                   ||
-                ------------------------------------------------
-                |        k e y b o a r d        |   |   |   |  |
-                ------------------------------------------------
-                                   ||
-                                   ||
-                       .------------------------------.
-                      /      head-down   .-""""-.      \
-                     |      on desk    /        \       |
-                     |                 |   zzz   |       |
-                      \                 \        /       /
-                       '----------------'-.___.-'------'
-                                   //
-                                  //
-                    ~~~ falling_into_flow ~~~
-                     ~ code drifting downward ~
-                      ~ dream merging with work ~
-
-</pre>
-</p> 
-
-
+🌐 [shaynemcgregor.dev](https://shaynemcgregor.dev)  
+💼 [LinkedIn](YOUR_LINKEDIN_URL)
